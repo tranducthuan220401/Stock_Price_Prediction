@@ -13,7 +13,6 @@
 
 ## Use LSTM  
 <img src="./Images/Lstm1.png" style="width:800px;"/>
-<img src="./Images/Lstm2.png" style="width:800px;"/>
 
 ## Use LSTM model to calculate MAE/MSE/RMSE/R2  
 <img src="./Images/Lstm_pre1.png" style="width:800px;"/>
